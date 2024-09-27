@@ -1,0 +1,51 @@
+:root {
+ --nicegui-default-padding: 0rem;
+ --nicegui-default-gap: 0rem;
+ background-image: url("/assets/MainBg.png");
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+}
+.q-body--fullscreen-mixin,
+.q-body--prevent-scroll {
+ position: relative !important;
+}
+body {
+ background-image: url("/assets/MainBg.png");
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+}
+
+.bg-charsheet {
+ aspect-ratio: 210 / 297;
+ width: min(90vw, 60vh);
+ background-image: url("https://img.freepik.com/premium-photo/paper-vintage-background_1262935-91.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center;
+}
+
+/* Styles pour la barre de défilement */
+.story-content::-webkit-scrollbar {
+ width: 8px;
+}
+
+/* Fond de la scrollbar */
+.story-content::-webkit-scrollbar-track {
+ background: #f1f1f110;
+ border-radius: 10px;
+}
+
+/* Couleur de la barre elle-même */
+.story-content::-webkit-scrollbar-thumb {
+ background-color: #888;
+ border-radius: 10px;
+ border: 2px solid #f1f1f115;
+}
+.textarea-expand {
+ min-height: 100px;
+ max-height: 300px;
+ resize: vertical;
+ overflow: auto;
+}

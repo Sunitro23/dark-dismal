@@ -1,0 +1,7 @@
+nicegui
+tinydb
+pytest
+deep-translator
+fastapi
+starlette
+faker
