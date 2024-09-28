@@ -1,6 +1,6 @@
 from dataclasses import dataclass, field
 from app.constants.enums import *
-from typing import Dict, List
+from typing import Dict, List, Optional
 import pickle
 
 
@@ -10,7 +10,7 @@ class Item:
     description: str = field(default_factory=str)
     image: str = field(default="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJfnLgDiGKYaxVQApYVsxChexmtMbI42TYw&s")
     item_type: ItemType = field(init=False)
-    effects: List[Dict[EffectType, Dict]] | None = field(default=None)
+    effects: Optional[List[Dict[EffectType, Dict]]] = field(default=None)
 
 
 @dataclass
