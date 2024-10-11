@@ -1,8 +1,7 @@
-from typing import Dict, Type
 from enum import Enum
 
 
-class CharAlignment(Enum):
+class CharAlignment(str, Enum):
     LAWFUL_GOOD = "Loyal Bon"
     NEUTRAL_GOOD = "Bon"
     CHAOTIC_GOOD = "Bon Chaotique"
@@ -14,7 +13,7 @@ class CharAlignment(Enum):
     CHAOTIC_EVIL = "Mauvais Chaotique"
 
 
-class StatEnum(Enum):
+class StatEnum(str, Enum):
     VIT = "VIT"
     STR = "STR"
     DEX = "DEX"
@@ -25,7 +24,7 @@ class StatEnum(Enum):
     CHA = "CHA"
 
 
-class SlotType(Enum):
+class SlotType(str, Enum):
     HELMET = "helmet"
     CHESTPLATE = "chestplate"
     BOOTS = "boots"
@@ -36,7 +35,7 @@ class SlotType(Enum):
     RING = "ring"
 
 
-class ItemType(Enum):
+class ItemType(str, Enum):
     WEAPON = "weapon"
     SHIELD = "shield"
     SPELL = "spell"
@@ -46,37 +45,43 @@ class ItemType(Enum):
     OTHER = "other"
 
 
-class ArmorType(Enum):
-    LIGHT = "light"
-    MEDIUM = "medium"
-    HEAVY = "heavy"
-
-
-class ArmorSlot(Enum):
+class ArmorSlot(str, Enum):
     HELMET = "helmet"
     CHESTPLATE = "chestplate"
     BOOTS = "boots"
     GLOVES = "gloves"
 
 
-class WeaponType(Enum):
-    SWORD = "sword"
+class WeaponType(str, Enum):
     AXE = "axe"
-    MACE = "mace"
-    BOW = "bow"
-    CROSSBOW = "crossbow"
-    STAFF = "staff"
-    WAND = "wand"
+    CATALYST = "catalyst"
+    CURVED_GREATSWORD = "curved greatsword"
+    CURVED_SWORD = "curved sword"
+    DAGGER = "dagger"
+    FIST = "fist"
+    GREAT_HAMMER = "great hammer"
+    GREATAXE = "greataxe"
+    GREATSWORD = "greatsword"
+    HALBERD = "halberd"
+    HAMMER = "hammer"
+    KATANA = "katana"
+    PYROMANCY_FLAME = "pyromancy flame"
+    SPEAR = "spear"
+    STRAIGHT_SWORD = "straight sword"
+    TALISMAN = "talisman"
+    THRUSTING_SWORD = "thrusting sword"
+    ULTRA_GREATSWORD = "ultra greatsword"
+    WHIP = "whip"
 
 
-class DamageType(Enum):
+class DamageType(str, Enum):
     PHYSICAL = "physical"
     MAGIC = "magic"
     FIRE = "fire"
     LIGHTNING = "lightning"
 
 
-class Scale(Enum):
+class Scale(str, Enum):
     E = "E"
     D = "D"
     C = "C"
@@ -85,19 +90,18 @@ class Scale(Enum):
     S = "S"
 
 
-class SpellType(Enum):
+class SpellType(str, Enum):
     SPELL = "spell"
     MIRACLE = "miracle"
     PYROMANCY = "pyromancy"
 
 
-class EffectType(Enum):
-    RESTORE_HP = "restore_hp"
-    RESTORE_STA = "restore_sta"
-    BOOST_STAT = "boost_stat"
+class EffectType(str, Enum):
+    RESTORE = "restore"
+    BOOST = "boost"
 
 
-class Class(Enum):
+class Class(str, Enum):
     WARRIOR = "Guerrier"
     KNIGHT = "Chevalier"
     WANDERER = "Vagabond"
@@ -107,4 +111,17 @@ class Class(Enum):
     SORCERER = "Sorcier"
     PYROMANCER = "Pyromancien"
     CLERIC = "Clerc"
-    DEPRIVED = "Défavorisé"
+    DEPRIVED = "Defavorise"
+
+
+class AllStat(str, Enum):
+    VIT = "VIT"
+    STR = "STR"
+    DEX = "DEX"
+    INT = "INT"
+    FTH = "FTH"
+    END = "END"
+    AGL = "AGL"
+    CHA = "CHA"
+    HP = "HP"
+    STA = "STA"

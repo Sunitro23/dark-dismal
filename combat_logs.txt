@@ -1,0 +1,264 @@
+Sun a rejoint l'équipe 1.
+Sun a rejoint l'équipe 1.
+Sun a rejoint l'équipe 1.
+Sun a rejoint l'équipe 1.
+Sun a rejoint l'équipe 1.
+Sun a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+Solaire d'Astora a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Sun a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+Sun a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Sun.
+Sun a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+Sun a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+Solaire d'Astora a rejoint l'équipe 1.
+SUN a rejoint l'équipe 2.
+Solaire d'Astora a été retiré du combat.
+Solaire d'Astora a rejoint l'équipe 1.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+Solaire d'Astora a rejoint l'équipe 1.
+SUN a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+SUN a rejoint l'équipe 1.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+Solaire d'Astora a rejoint l'équipe 1.
+SUN a rejoint l'équipe 2.
+Solaire d'Astora a rejoint l'équipe 1.
+SUN a rejoint l'équipe 2.
+Solaire d'Astora a rejoint l'équipe 1.
+SUN a rejoint l'équipe 2.
+Solaire d'Astora a rejoint l'équipe 1.
+SUN a rejoint l'équipe 2.
+Solaire d'Astora a rejoint l'équipe 1.
+SUN a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+Solaire d'Astora a rejoint l'équipe 1.
+SUN a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+Solaire d'Astora a rejoint l'équipe 1.
+SUN a rejoint l'équipe 2.
+Solaire d'Astora a rejoint l'équipe 1.
+SUN a rejoint l'équipe 2.
+SUN a rejoint l'équipe 1.
+Solaire d'Astora a rejoint l'équipe 2.
+SUN utilise 0 points d'endurance pour attaquer Solaire d'Astora.
+SUN inflige 0 points de dégâts à Solaire d'Astora.
+Sun a rejoint l'équipe 1.
+Moon a rejoint l'équipe 2.
+Moon utilise 0 points d'endurance pour attaquer Sun.
+Moon inflige 0 points de dégâts à Sun.
+Moon utilise 0 points d'endurance pour attaquer Sun.
+Moon inflige 0 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Sun utilise 0 points d'endurance pour attaquer Moon.
+Sun inflige 0 points de dégâts à Moon.
+Moon a rejoint l'équipe 2.
+Sun a rejoint l'équipe 1.
+Sun utilise 0 points d'endurance pour attaquer Moon.
+Sun inflige 0 points de dégâts à Moon.
+Sun a rejoint l'équipe 1.
+Moon a rejoint l'équipe 2.
+Moon utilise 0 points d'endurance pour attaquer Sun.
+Moon inflige 10 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Moon utilise 0 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Sun a rejoint l'équipe 1.
+Moon a rejoint l'équipe 2.
+Sun utilise 0 points d'endurance pour attaquer Moon.
+Sun inflige 4 points de dégâts à Moon.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Sun n'a pas l'énergie pour faire cette action.
+Sun a rejoint l'équipe 1.
+Moon a rejoint l'équipe 2.
+Sun n'a pas l'énergie pour faire cette action.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Sun n'a pas l'énergie pour faire cette action.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Tour 1 : C'est au tour de Sun.
+Sun utilise 6 points d'endurance pour attaquer Moon.
+Sun inflige 4 points de dégâts à Moon.
+Sun a rejoint l'équipe 1.
+Moon a rejoint l'équipe 2.
+Sun utilise 6 points d'endurance pour attaquer Moon.
+Sun inflige 4 points de dégâts à Moon.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Sun utilise 6 points d'endurance pour attaquer Moon.
+Sun inflige 4 points de dégâts à Moon.
+Sun a rejoint l'équipe 1.
+Moon a rejoint l'équipe 2.
+Sun utilise 6 points d'endurance pour attaquer Moon.
+Sun inflige 4 points de dégâts à Moon.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Sun utilise 6 points d'endurance pour attaquer Moon.
+Sun inflige 4 points de dégâts à Moon.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Sun utilise 6 points d'endurance pour attaquer Moon.
+Sun inflige 4 points de dégâts à Moon.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Sun utilise 6 points d'endurance pour attaquer Moon.
+Sun inflige 4 points de dégâts à Moon.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Sun utilise 6 points d'endurance pour attaquer Moon.
+Sun n'a pas l'énergie pour faire cette action.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Sun.
+Sun lance Boule de Feu sur Moon.
+Sun lance Boule de Feu et inflige 16.4 points de dégâts à Moon.
+Tour 2 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon n'a pas l'énergie pour faire cette action.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Sun a rejoint l'équipe 1.
+Moon a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Sun utilise 6 points d'endurance pour attaquer Moon.
+Sun inflige 4 points de dégâts à Moon.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Moon.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Sun utilise 6 points d'endurance pour attaquer Moon.
+Sun inflige 4 points de dégâts à Moon.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige 4 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige -48.0 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige -48.0 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige -48.0 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige -48.0 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige -48.0 points de dégâts à Sun.
+Moon a rejoint l'équipe 1.
+Sun a rejoint l'équipe 2.
+Tour 1 : C'est au tour de Moon.
+Moon utilise 6 points d'endurance pour attaquer Sun.
+Moon inflige -1.0 points de dégâts à Sun.

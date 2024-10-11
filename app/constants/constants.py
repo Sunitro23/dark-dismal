@@ -1,4 +1,4 @@
-from app.constants.enums import Scale, SlotType
+from app.constants.enums import Scale, SlotType, WeaponType
 
 
 SCALE_DEFENSE_MULTIPLIER = {
@@ -40,24 +40,26 @@ ICON_ARMOR_SCALING_FIRE = "https://darksouls3.wiki.fextralife.com/file/Dark-Soul
 ICON_ARMOR_SCALING_LIGHTNING = "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/icon-lightningdef.png"
 ICON_REQUIRED_INT = f"{FILE_ICONS}/icon-int-req.png"
 ICON_REQUIRED_FTH = f"{FILE_ICONS}/icon-fth-req.png"
+ICON_REQUIRED_STR = f"{FILE_ICONS}/icon-str-req.png"
+ICON_REQUIRED_DEX = f"{FILE_ICONS}/icon-dex-req.png"
 ICON_WEIGHT = "https://darksouls.wiki.fextralife.com/file/Dark-Souls/icon_other_weig.png"
 
 icon_tooltips = {
-    ICON_DAMAGE_PHYSICAL: "Dégâts Physiques",
-    ICON_DAMAGE_FIRE: "Dégâts de Feu",
-    ICON_DAMAGE_MAGIC: "Dégâts Magiques",
-    ICON_DAMAGE_LIGHTNING: "Dégâts de Foudre",
-    ICON_SCALING_STR: "Échelonnage de Force",
-    ICON_SCALING_DEX: "Échelonnage de Dextérité",
-    ICON_SCALING_INT: "Échelonnage d'Intelligence",
-    ICON_SCALING_FTH: "Échelonnage de Foi",
-    ICON_ARMOR_SCALING_PHYSICAL: "Échelonnage de Défense Physique",
-    ICON_ARMOR_SCALING_FIRE: "Échelonnage de Défense de Feu",
-    ICON_ARMOR_SCALING_MAGIC: "Échelonnage de Défense Magique",
-    ICON_ARMOR_SCALING_LIGHTNING: "Échelonnage de Défense de Foudre",
-    ICON_DEFENSE: "Défense",
+    ICON_DAMAGE_PHYSICAL: "Degats Physiques",
+    ICON_DAMAGE_FIRE: "Degats de Feu",
+    ICON_DAMAGE_MAGIC: "Degats Magiques",
+    ICON_DAMAGE_LIGHTNING: "Degats de Foudre",
+    ICON_SCALING_STR: "Echelonnage de Force",
+    ICON_SCALING_DEX: "Echelonnage de Dexterite",
+    ICON_SCALING_INT: "Echelonnage d'Intelligence",
+    ICON_SCALING_FTH: "Echelonnage de Foi",
+    ICON_ARMOR_SCALING_PHYSICAL: "Echelonnage de Defense Physique",
+    ICON_ARMOR_SCALING_FIRE: "Echelonnage de Defense de Feu",
+    ICON_ARMOR_SCALING_MAGIC: "Echelonnage de Defense Magique",
+    ICON_ARMOR_SCALING_LIGHTNING: "Echelonnage de Defense de Foudre",
+    ICON_DEFENSE: "Defense",
     ICON_BLOCK_PERCENTAGE: "Pourcentage de Blocage",
-    ICON_STABILITY: "Stabilité",
+    ICON_STABILITY: "Stabilite",
     ICON_REQUIRED_INT: "Intelligence Requise",
     ICON_REQUIRED_FTH: "Foi Requise",
     ICON_WEIGHT: "Poids",
@@ -70,15 +72,36 @@ texts = {
 }
 
 readable_slot_names = {
-    SlotType.HELMET: "Casque",
-    SlotType.CHESTPLATE: "Plastron",
-    SlotType.BOOTS: "Bottes",
-    SlotType.GLOVES: "Gants",
-    SlotType.RIGHT_HAND: "Main Droite",
-    SlotType.LEFT_HAND: "Main Gauche",
+    "HELMET": "Casque",
+    "CHESTPLATE": "Plastron",
+    "BOOTS": "Bottes",
+    "GLOVES": "Gants",
+    "RIGHT_HAND": "Main Droite",
+    "LEFT_HAND": "Main Gauche",
+    "SPELL": "Sorts",
+    "RING": "Anneaux"
 }
-readable_effect_names = {
-    "restore": "+",
-    "boost": "+",
-    "heal_status": "Soigne l'effet",
+
+
+head_html = '<link rel="stylesheet" href="/css/style.css">'
+stamina_values = {
+    WeaponType.AXE: 8,
+    WeaponType.CATALYST: 5,
+    WeaponType.CURVED_GREATSWORD: 10,
+    WeaponType.CURVED_SWORD: 6,
+    WeaponType.DAGGER: 4,
+    WeaponType.FIST: 6,
+    WeaponType.GREAT_HAMMER: 11,
+    WeaponType.GREATAXE: 11,
+    WeaponType.GREATSWORD: 10,
+    WeaponType.HALBERD: 10,
+    WeaponType.HAMMER: 8,
+    WeaponType.KATANA: 8,
+    WeaponType.PYROMANCY_FLAME: 5,
+    WeaponType.SPEAR: 8,
+    WeaponType.STRAIGHT_SWORD: 6,
+    WeaponType.TALISMAN: 5,
+    WeaponType.THRUSTING_SWORD: 6,
+    WeaponType.ULTRA_GREATSWORD: 15,
+    WeaponType.WHIP: 8,
 }

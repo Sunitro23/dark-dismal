@@ -1,16 +1,23 @@
+/* @font-face {
+ font-family: "Optimus Princeps";
+ src: url("/fonts/OptimusPrinceps.ttf") format("truetype");
+ font-weight: normal;
+ font-style: normal;
+} */
+
 :root {
  --nicegui-default-padding: 0rem;
  --nicegui-default-gap: 0rem;
  background-image: url("/assets/MainBg.png");
  background-size: cover;
  background-repeat: no-repeat;
- background-position: center;
 }
 .q-body--fullscreen-mixin,
 .q-body--prevent-scroll {
  position: relative !important;
 }
 body {
+ /* font-family: "Optimus Princeps", sans-serif !important; */
  background-image: url("/assets/MainBg.png");
  background-size: cover;
  background-repeat: no-repeat;
@@ -19,14 +26,13 @@ body {
 
 .bg-charsheet {
  aspect-ratio: 210 / 297;
- width: min(90vw, 60vh);
  background-image: url("https://img.freepik.com/premium-photo/paper-vintage-background_1262935-91.jpg");
  background-size: cover;
  background-repeat: no-repeat;
  background-position: center;
 }
 
-/* Styles pour la barre de défilement */
+/* Styles pour la barre de defilement */
 .story-content::-webkit-scrollbar {
  width: 8px;
 }
@@ -43,9 +49,14 @@ body {
  border-radius: 10px;
  border: 2px solid #f1f1f115;
 }
+/* Text Area */
 .textarea-expand {
  min-height: 100px;
  max-height: 300px;
  resize: vertical;
  overflow: auto;
+}
+
+.progress-bar {
+ transition: width 0.5s ease;
 }
